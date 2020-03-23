@@ -13,7 +13,7 @@ void main() {
         body: Center(
           child: Image(
               image:
-                NetworkImage('http://getwallpapers.com/wallpaper/full/2/e/a/176785.jpg'),
+                AssetImage('images/diamond.png'),
           ),
         ),
       ),
